@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Amrit CV
 
-You can use the [editor on GitHub](https://github.com/amyacharya/Resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I wish to work in a fast growing organization and use my skills to build scalabale technology products that serve millions of users. 
 
 ### Markdown
 
